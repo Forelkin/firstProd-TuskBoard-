@@ -1,2 +1,4 @@
-# firstProd-TuskBoard-
-Трекер задач для пет-проекта из 4-х нулевых неучей :)
+# TaskFlow
+Трекер задач, чтобы прокачаться с нуля до уровня "топать на собес".
+Команда: Саша (Go), Савик (DevOps), Андрей (ИБ), Лысый Бивень (React).
+Стек: Gin, PostgreSQL, Docker, React+TypeScript, Ant Design.
